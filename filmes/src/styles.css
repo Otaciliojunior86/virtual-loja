@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: black;
+}
+.app{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+=======
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: black;
+}
+.app{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+>>>>>>> c7faed0c4e950cd899492d94cdd81fcf400658d6
+}
