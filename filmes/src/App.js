@@ -20,7 +20,7 @@ import {ToastContainer} from 'react-toastify';
 export default function App() {
   return (
     <div className="app">
-      <h1>loja 7</h1>
+      <h1>loja</h1>
     </div>
   );
 }
